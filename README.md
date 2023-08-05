@@ -1,2 +1,1 @@
-# Peerapon.github.io
-My portfolio to sent in GTC web design
+# https://github.com/UniRipe/Peerapon.github.io/tree/main
